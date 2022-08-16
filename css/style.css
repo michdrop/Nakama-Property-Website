@@ -125,6 +125,19 @@ li, a {
     .nav-buttons {
         margin-top: 40px;
     }
+    
+}
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.clear {
+	clear: left;
 }
 
 
@@ -196,7 +209,6 @@ li, a {
 .jum-text ul li {
 	padding: 10px;
 	font-size: 24px;
-	float: ;
 	padding: 26px 0 0 0;
 	margin: 3px;
 }
@@ -204,4 +216,5 @@ li, a {
 .clear {
 	clear: left;
 }
+
 /* Jumbotron END */
