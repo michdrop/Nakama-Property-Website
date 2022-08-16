@@ -126,3 +126,82 @@ li, a {
         margin-top: 40px;
     }
 }
+
+
+
+/* Main Section */
+.mainSection {
+	max-height: 3000px;
+	width: 100%;
+	background-color: #f7f7f7;
+	padding: 120px 0 0 0;
+}
+
+
+/* Jumbotron */
+.jumbotron {
+	height: 550px;
+	width: 1154px;
+	margin: 0 auto 120px auto;
+}
+
+.jum-image {
+	height: 550px;
+	width: 350px;
+	overflow: hidden;
+	border-radius: 10%;
+	float: left;
+}
+
+.jum-image .image {
+	background-image: url(../assets/house-2.jpg);
+	height: 550px;
+	background-size: 818px 550px;
+	background-position: -235px 0;
+	background-repeat: no-repeat;
+}
+
+.jum-text {
+	float: right;
+	height: 486px;
+	width: 588px;
+	margin: 30px 0 0 0;
+}
+
+.jum-text h1 {
+	font-size: 40px;
+	letter-spacing: 4px;
+	margin: 3px 0 17px 0;
+}
+
+.jum-text ul {
+	list-style: none;
+}
+
+.jum-text ul span {
+	display: block;
+	background-color: #0756C5;
+	border-radius: 10px;
+	width: 75px;
+	height: 75px;
+	color: white;
+	text-align: center;
+	line-height: 75px;
+	font-size: 40px;
+	float: left;
+	font-weight: bold;
+	margin: 18px 20px 15px 0;
+}
+
+.jum-text ul li {
+	padding: 10px;
+	font-size: 24px;
+	float: ;
+	padding: 26px 0 0 0;
+	margin: 3px;
+}
+
+.clear {
+	clear: left;
+}
+/* Jumbotron END */
